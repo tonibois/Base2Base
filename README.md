@@ -5,6 +5,9 @@ Requirements:
 + Tested on Ubuntu 20.04 LTS WSL machine
 + bc program
 
+Available in English, Spanish and Catalan
+
+Usage example:
 
   
   
