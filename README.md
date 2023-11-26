@@ -8,7 +8,7 @@ Requirements:
 Available in English, Spanish and Catalan
 
 Install the program by setting an alias using the source in current directory (change _eng to _spa for spanish version or _cat for catalan):
-`echo "alias b2b=$PWD/b2b_eng.sh" >> ~/.bashrc`
+`echo "alias b2b=$PWD/b2b_eng.sh" >> ~/.bashrc` \n
 `source ~/.bashrc`
 
 
