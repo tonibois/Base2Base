@@ -18,7 +18,7 @@ source ~/.bashrc
 Example of usage:
 
 <p align="left">
-<img src="demo.png" alt="drawing" width="800" >
+<img src="demo.png" alt="drawing" width="1000" >
 </p>
 
 
