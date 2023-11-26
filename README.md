@@ -8,9 +8,18 @@ Requirements:
 Available in English, Spanish and Catalan
 
 Install the program by setting an alias using the source in current directory (change _eng to _spa for spanish version or _cat for catalan):
-`echo "alias b2b=$PWD/b2b_eng.sh" >> ~/.bashrc` \n
-`source ~/.bashrc`
 
+```bash
+cd Base2Base
+echo "alias b2b=$PWD/b2b_eng.sh" >> ~/.bashrc
+source ~/.bashrc
+```
+
+Example of usage:
+
+<p align="center">
+<img src="demo/b2b_demo.gif" alt="drawing" width="600" >
+</p>
 
 
   
