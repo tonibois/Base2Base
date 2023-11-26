@@ -15,7 +15,7 @@ echo "alias b2b=$PWD/b2b_eng.sh" >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Example of usage:
+Example of usage: Convert hexademical number BC to binary 
 
 <p align="left">
 <img src="demo.png" alt="drawing" width="1000" >
