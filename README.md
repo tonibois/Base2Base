@@ -7,25 +7,29 @@ Requirements:
 
 Available in English, Spanish and Catalan
 
-Install the program by setting an alias using the source in current directory (change _eng to _spa for spanish version or _cat for catalan):
+Step 1. Install git (if not yet installed) and download repository:
 
 ```bash
 sudo apt install git
 git clone https://github.com/tonibois/Base2Base.git
+```
+
+Step 2. Install the program by setting an alias using the source in current directory (change _eng to _spa for spanish version or _cat for catalan):
+
+```bash
 cd Base2Base
 echo "alias b2b=$PWD/b2b_eng.sh" >> ~/.bashrc
 source ~/.bashrc
 ```
-Run the program in CLI after installation
+Step 3. Run the program in CLI after installation
 ```bash
 b2b
 ```
+
+Or simply do step 1 and :
 Run the program in CLI (without installing)
 ```bash
-sudo apt install git
-git clone https://github.com/tonibois/Base2Base.git
-cd Base2Base
-bash b2b_eng.sh
+bash Base2Base/b2b_eng.sh
 ```
 Example of usage: Convert hexademical number BC to binary 
 
