@@ -26,8 +26,7 @@ Step 3. Run the program in CLI after installation
 b2b
 ```
 
-Or simply do step 1 and :
-Run the program in CLI (without installing)
+Or simply do step 1 and run the program in CLI (without installing):
 ```bash
 bash Base2Base/b2b_eng.sh
 ```
