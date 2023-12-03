@@ -10,7 +10,8 @@ Available in English, Spanish and Catalan
 Install the program by setting an alias using the source in current directory (change _eng to _spa for spanish version or _cat for catalan):
 
 ```bash
-git clone 
+sudo apt install git
+git clone https://github.com/tonibois/Base2Base.git
 cd Base2Base
 echo "alias b2b=$PWD/b2b_eng.sh" >> ~/.bashrc
 source ~/.bashrc
@@ -21,7 +22,8 @@ b2b
 ```
 Run the program in CLI (without installing)
 ```bash
-git clone 
+sudo apt install git
+git clone https://github.com/tonibois/Base2Base.git
 cd Base2Base
 bash b2b_eng.sh
 ```
