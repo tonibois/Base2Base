@@ -10,11 +10,21 @@ Available in English, Spanish and Catalan
 Install the program by setting an alias using the source in current directory (change _eng to _spa for spanish version or _cat for catalan):
 
 ```bash
+git clone 
 cd Base2Base
 echo "alias b2b=$PWD/b2b_eng.sh" >> ~/.bashrc
 source ~/.bashrc
 ```
-
+Run the program in CLI after installation
+```bash
+b2b
+```
+Run the program in CLI (without installing)
+```bash
+git clone 
+cd Base2Base
+bash b2b_eng.sh
+```
 Example of usage: Convert hexademical number BC to binary 
 
 <p align="left">
